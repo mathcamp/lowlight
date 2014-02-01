@@ -1,0 +1,14 @@
+*.swp
+*.pyc
+*.log
+dist
+build
+_build
+tmp
+*.egg-info
+*.egg
+.coverage
+coverage
+_version.py
+venv
+gen/*
